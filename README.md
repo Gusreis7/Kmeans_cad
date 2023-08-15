@@ -1,24 +1,24 @@
 # Kmeans_cad
 Trabalho final da disciplina de CAD : Paralelização do algoritmo kmeans para clusterização de dados 
 
-Integrantes
+<h3>Integrantes</h3>
 
-Evellyn Nicole
+*Evellyn Nicole
 
-Isadora Mesquita
+*Isadora Mesquita
 
-Guilherme Henrique
+*Guilherme Henrique
 
-Gustavo dos Reis
+*Gustavo dos Reis
 
-Implementações:
+<h3>Implementações:</h3>
 
-sequencial em c
+->sequencial em c
 
-paralelo em C na cpu com openmp
+->paralelo em C na cpu com openmp
 
-paralelo em python na gpu com RAPIDS da Nvidia
+->paralelo em python na gpu com RAPIDS da Nvidia
 
-link para o dataset 
+<h3>link para o dataset </h3>
 
 https://www.kaggle.com/code/benherbertson/california-housing-k-means-clustering
